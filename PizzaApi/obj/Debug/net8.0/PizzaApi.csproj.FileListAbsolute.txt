@@ -1,0 +1,7 @@
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.csproj.AssemblyReference.cache
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.AssemblyInfoInputs.cache
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.AssemblyInfo.cs
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.csproj.CoreCompileInputs.cache
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\PizzaApi\obj\Debug\net8.0\PizzaApi.MvcApplicationPartsAssemblyInfo.cache

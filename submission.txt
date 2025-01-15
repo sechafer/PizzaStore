@@ -1,0 +1,73 @@
+CSE 325 - Assignment 1
+jennifer
+01/12/2025
+
+1. Pizza API Output
+------------------
+GET https://localhost:7000/pizza response:
+[
+  {
+    "id": 1,
+    "name": "Italiana Clasica",
+    "isGlutenFree": false,
+    "price": 10.99
+  },
+  {
+    "id": 2,
+    "name": "Vegana",
+    "isGlutenFree": true,
+    "price": 11.99
+  },
+  {
+    "id": 3,
+    "name": "Paulista Clasica",
+    "isGlutenFree": false,
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "name": "Pepperoni Supreme",
+    "isGlutenFree": false,
+    "price": 13.99
+  }
+]
+  {
+    "id": 5,
+    "name": "Cinco Quesos",
+    "isGlutenFree": false,
+    "price": 25.99
+  }
+]
+
+2. Sales Summary Function
+------------------------
+public static async Task GenerateSalesSummaryReport(string[] salesFiles, string outputPath)
+{
+    var report = new StringBuilder();
+    decimal totalSales = 0m;
+    
+    // Add header
+    report.AppendLine("Sales Summary");
+    report.AppendLine("----------------------------");
+    
+    // Process each sales file
+    foreach (var file in salesFiles)
+    {
+        if (File.Exists(file))
+        {
+            var fileContent = await File.ReadAllTextAsync(file);
+            if (decimal.TryParse(fileContent, out decimal saleAmount))
+            {
+                totalSales += saleAmount;
+                report.AppendLine($"  {Path.GetFileName(file)}: {saleAmount:C}");
+            }
+        }
+    }
+    
+    // Insert total sales after header
+    report.Insert(report.ToString().IndexOf("----------------------------") + 29,
+        $" Total Sales: {totalSales:C}\n\n Details:\n");
+    
+    // Write report to file
+    await File.WriteAllTextAsync(outputPath, report.ToString());
+}

@@ -1,0 +1,8 @@
+Sales Summary
+---------------------------- Total Sales: R$7,037.01
+
+ Details:
+
+  day1.txt: R$1,234.56
+  day2.txt: R$2,345.67
+  day3.txt: R$3,456.78

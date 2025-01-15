@@ -1,0 +1,14 @@
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\bin\Debug\net8.0\SalesReport.exe
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\bin\Debug\net8.0\SalesReport.deps.json
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\bin\Debug\net8.0\SalesReport.runtimeconfig.json
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\bin\Debug\net8.0\SalesReport.dll
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\bin\Debug\net8.0\SalesReport.pdb
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.AssemblyInfoInputs.cache
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.AssemblyInfo.cs
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.dll
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\refint\SalesReport.dll
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.pdb
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\SalesReport.genruntimeconfig.cache
+C:\Users\kitty201\Documents\BYU-IDAHO\semester 5\cse325\CSE325-Assignment1\SalesReport\obj\Debug\net8.0\ref\SalesReport.dll
