@@ -1,5 +1,5 @@
-CSE 325 - Assignment 1
-jennifer
+CSE 325 - Tarea 1
+SAMUEL
 01/12/2025
 
 1. Pizza API Output
